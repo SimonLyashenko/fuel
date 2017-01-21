@@ -5,8 +5,7 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "4.2.*",
-		"laravel/legacy-encrypter": "*"
+		"laravel/framework": "5.3.*"
 	},
 	"autoload": {
 		"classmap": [
